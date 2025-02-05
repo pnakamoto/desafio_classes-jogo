@@ -25,6 +25,6 @@ heroi3 = Heroi("Careca", 20, "monge")
 heroi4 = Heroi("Nakamoto", 22, "ninja")
 
 heroi1.atacar()  # Saída: Arthur, o mago, atacou com magia
-heroi2.atacar()  # Saída: Leon, o guerreiro, atacou com espada
+heroi2.atacar()  # Saída: Reysson, o guerreiro, atacou com espada
 heroi3.atacar()  # Saída: Kai, o monge, atacou com artes marciais
-heroi4.atacar()  # Saída: Shin, o ninja, atacou com shuriken
+heroi4.atacar()  # Saída: Nakamoto, o ninja, atacou com shuriken
